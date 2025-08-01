@@ -1,4 +1,4 @@
-RPA UiPath
+# RPA UiPath
 By Surya | Free Tech Time YouTube | ZuTech Journey
 🚀 Welcome to my UiPath Document Understanding (DU) and RPA automation repository! This space hosts code samples, tutorials, and real-world solutions for document processing, AI/ML extraction, and end-to-end automation.
 
@@ -27,6 +27,7 @@ Certification prep for UiPath/other RPA tools.
 1:1 mentorship and job placement support.
 
 📩 Contact: [Start Journey]([url](https://www.paypal.com/ncp/payment/VARHDYXRDK5YU))  | Website
+https://www.paypal.com/ncp/payment/VARHDYXRDK5YU
 
 📜 License
 This project is open-source under MIT License.
